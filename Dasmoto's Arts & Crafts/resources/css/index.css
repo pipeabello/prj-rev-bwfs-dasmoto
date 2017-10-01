@@ -1,0 +1,37 @@
+h1 {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	background-image: url("file:///Users/PipeAbello/Code/codecademy/Dasmoto's Arts & Crafts/resources/images/pattern.jpg");
+	text-align: center;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+#brushes {
+    background-color: mediumSpringGreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+.price {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+html {
+	font-family: Helvetica;
+}
